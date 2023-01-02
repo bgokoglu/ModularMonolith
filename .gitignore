@@ -357,3 +357,5 @@ MigrationBackup/
 
 # sonarqube
 .sonarqube/
+
+.DS_Store

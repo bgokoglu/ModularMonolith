@@ -1,0 +1,11 @@
+BuildingBlocks
+    - Application
+    - Infra
+
+Email
+Sms
+
+
+Webinar.Handlers
+Dbs
+
