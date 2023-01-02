@@ -16,7 +16,6 @@
     <ItemGroup>
       <Folder Include="Infrastructure\IntegrationEventMigrations" />
       <Folder Include="Infrastructure\WebinarMigrations" />
-      <Folder Include="IntegrationEvents\EventsHandling" />
     </ItemGroup>
 
     <ItemGroup>
@@ -32,6 +31,7 @@
       </PackageReference>
       <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="7.0.1" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.1" />
+      <PackageReference Include="Serilog" Version="2.12.0" />
     </ItemGroup>
 
 </Project>
